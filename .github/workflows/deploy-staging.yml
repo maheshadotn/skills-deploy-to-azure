@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <maheshadotn> with GitHub username ###
+  ### Replace <maheshadotn> with GitHub username ###33
   ###############################################
   DOCKER_IMAGE_NAME: maheshadotn-azure-ttt
   AZURE_WEBAPP_NAME: maheshadotn-ttt-app
